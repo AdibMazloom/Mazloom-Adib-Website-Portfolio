@@ -1,0 +1,13 @@
+---
+title: "Home"
+format: html
+---
+
+# Welcome
+
+This is the home page of Adib Mazloom's Portfolio Website.
+
+- MBA Candidate at Cal Poly Pomona
+- Skills: R, Python, SQL, Tableau, Excel
+- Career Aspirations: Business Analyst / Data-Driven Decision Maker
+

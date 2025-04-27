@@ -1,0 +1,24 @@
+project:
+  type: website
+
+output-dir: docs
+
+website:
+  title: "Adib Mazloom Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: mba-projects.qmd
+        text: MBA Projects
+      - href: analytics.qmd
+        text: Business Analytics
+      #- href: reveal.qmd
+      #  text: Presentation
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: true
+    code-fold: true
