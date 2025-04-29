@@ -35,7 +35,7 @@ This page showcases professional and academic projects that demonstrate my skill
 
 ---
 
-## ⚡ EVenus Airship Design
+## ⚡ Venus Airship Design
 *UCSD Capstone Project*
 
 ![Venus Airship Design](Venus Airship.jpg){width=100% style="margin-top: 10px; margin-bottom: 20px;"}
