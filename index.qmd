@@ -12,7 +12,7 @@ I am an Aerospace Engineer and MBA Candidate passionate about technical innovati
 
 ## About Me
 
-![Adib Mazloom Profile Picture](Final.jpg){width=250px style="border-radius: 50%; margin-bottom: 20px;"}
+![Adib Mazloom Profile Picture](Profile.jpg){width=250px style="border-radius: 50%; margin-bottom: 20px;"}
 
 - **Education**: B.S. in Aerospace Engineering (UCSD) | MBA Candidate (Cal Poly Pomona)
 - **Skills**: R, Python, MATLAB, SolidWorks, ANSYS, Tableau, SQL
