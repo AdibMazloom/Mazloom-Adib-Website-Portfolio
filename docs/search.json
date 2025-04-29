@@ -60,21 +60,35 @@
     "href": "analytics.html",
     "title": "Engineering Analytics",
     "section": "",
-    "text": "This section highlights key technical projects demonstrating my skills in aerospace engineering, data analysis, and system modeling.\n\n\n\n\nModeled thermal and structural performance for high-speed flight vehicles.\nUtilized ANSYS and MATLAB for simulations and optimization studies.\nConducted FEA (Finite Element Analysis) to optimize airframe designs under thermal loads.\n\n\n\n\n\n\nBuilt R scripts to perform statistical analysis and forecasting for complex engineering projects.\nApplied data visualization to detect trends and inform system optimization strategies.\nDelivered business intelligence insights into aerospace R&D project feasibility."
+    "text": "Welcome to the Engineering Analytics section of my portfolio.\nThis page showcases professional and academic projects that demonstrate my skills in thermal analysis, systems engineering, and mechanical design.\n\n\n\nWavious LLC – San Diego, CA\nJune 2021 – February 2022\n\n\n\nThermal Chiplet Test Bench\n\n\n\nDeveloped thermal modeling solutions for military-grade chiplets, improving thermal performance by over 35°C.\nDesigned and implemented rigorous test protocols for extreme condition validation, increasing test efficiency by 40%.\nAnalyzed heat dissipation methods, leading to a 20% reduction in system cooling requirements.\nTools used: MATLAB, thermal test rigs, engineering test automation.\n\n\n\n\n\nUCSD Aerospace Engineering Program Project\n\n\n\nMars Glider Design\n\n\n\nDeveloped fixed-wing UAV systems for planetary exploration environments.\nImproved CAD modeling accuracy by 25% for soft goods integration.\nConducted advanced structural simulations, leading to a 10% reduction in weight while preserving airframe performance.\nSkills: SolidWorks, FEA, aerodynamic modeling.\n\n\n\n\n\nUCSD Capstone Project\n\n\n\nVenus Airship Design\n\n\n\nDesigned and built a complete Venus Airship, capable of withstanding the harsh Venus environment.\nUtilized old technology from Venera missions as ideas for surviveability.\nFocused on structural optimization, thermal safety, and real-world system integration.\nTools used: SolidWorks, MATLAB, Arduino, FEA software.\n\n\n\n\n\n\nCAD Modeling (SolidWorks, AutoCAD)\n\nFEA & Thermal Simulation (ANSYS, MATLAB)\n\nData Analysis (Python, R)\n\nSystem Prototyping (Arduino, PCB design)\n\nAerospace Test Development"
   },
   {
-    "objectID": "analytics.html#aerospace-systems-analysis",
-    "href": "analytics.html#aerospace-systems-analysis",
+    "objectID": "analytics.html#thermal-design-test-engineering-internship",
+    "href": "analytics.html#thermal-design-test-engineering-internship",
     "title": "Engineering Analytics",
     "section": "",
-    "text": "Modeled thermal and structural performance for high-speed flight vehicles.\nUtilized ANSYS and MATLAB for simulations and optimization studies.\nConducted FEA (Finite Element Analysis) to optimize airframe designs under thermal loads."
+    "text": "Wavious LLC – San Diego, CA\nJune 2021 – February 2022\n\n\n\nThermal Chiplet Test Bench\n\n\n\nDeveloped thermal modeling solutions for military-grade chiplets, improving thermal performance by over 35°C.\nDesigned and implemented rigorous test protocols for extreme condition validation, increasing test efficiency by 40%.\nAnalyzed heat dissipation methods, leading to a 20% reduction in system cooling requirements.\nTools used: MATLAB, thermal test rigs, engineering test automation."
   },
   {
-    "objectID": "analytics.html#data-driven-decision-making-in-engineering",
-    "href": "analytics.html#data-driven-decision-making-in-engineering",
+    "objectID": "analytics.html#nasa-mars-glider-venus-airship",
+    "href": "analytics.html#nasa-mars-glider-venus-airship",
     "title": "Engineering Analytics",
     "section": "",
-    "text": "Built R scripts to perform statistical analysis and forecasting for complex engineering projects.\nApplied data visualization to detect trends and inform system optimization strategies.\nDelivered business intelligence insights into aerospace R&D project feasibility."
+    "text": "UCSD Aerospace Engineering Program Project\n\n\n\nMars Glider Design\n\n\n\nDeveloped fixed-wing UAV systems for planetary exploration environments.\nImproved CAD modeling accuracy by 25% for soft goods integration.\nConducted advanced structural simulations, leading to a 10% reduction in weight while preserving airframe performance.\nSkills: SolidWorks, FEA, aerodynamic modeling."
+  },
+  {
+    "objectID": "analytics.html#evenus-airship-design",
+    "href": "analytics.html#evenus-airship-design",
+    "title": "Engineering Analytics",
+    "section": "",
+    "text": "UCSD Capstone Project\n\n\n\nVenus Airship Design\n\n\n\nDesigned and built a complete Venus Airship, capable of withstanding the harsh Venus environment.\nUtilized old technology from Venera missions as ideas for surviveability.\nFocused on structural optimization, thermal safety, and real-world system integration.\nTools used: SolidWorks, MATLAB, Arduino, FEA software."
+  },
+  {
+    "objectID": "analytics.html#technical-skills-utilized",
+    "href": "analytics.html#technical-skills-utilized",
+    "title": "Engineering Analytics",
+    "section": "",
+    "text": "CAD Modeling (SolidWorks, AutoCAD)\n\nFEA & Thermal Simulation (ANSYS, MATLAB)\n\nData Analysis (Python, R)\n\nSystem Prototyping (Arduino, PCB design)\n\nAerospace Test Development"
   },
   {
     "objectID": "mba-projects.html",

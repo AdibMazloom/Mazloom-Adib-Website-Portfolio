@@ -5,23 +5,55 @@ format: html
 
 # Engineering Analytics and Technical Projects
 
-This section highlights key technical projects demonstrating my skills in aerospace engineering, data analysis, and system modeling.
+Welcome to the Engineering Analytics section of my portfolio.  
+This page showcases professional and academic projects that demonstrate my skills in thermal analysis, systems engineering, and mechanical design.
 
 ---
 
-## Aerospace Systems Analysis
+## 🔧 Thermal Design & Test Engineering Internship  
+**Wavious LLC – San Diego, CA**  
+*June 2021 – February 2022*
 
-- Modeled thermal and structural performance for high-speed flight vehicles.
-- Utilized ANSYS and MATLAB for simulations and optimization studies.
-- Conducted FEA (Finite Element Analysis) to optimize airframe designs under thermal loads.
+![Thermal Chiplet Test Bench](motherboard.png){width=100% style="margin-top: 10px; margin-bottom: 20px;"}
+
+- Developed thermal modeling solutions for military-grade chiplets, improving thermal performance by over **35°C**.
+- Designed and implemented rigorous test protocols for **extreme condition validation**, increasing test efficiency by **40%**.
+- Analyzed heat dissipation methods, leading to a **20% reduction** in system cooling requirements.
+- Tools used: MATLAB, thermal test rigs, engineering test automation.
+
+---
+
+## 🚀 NASA Mars Glider & Venus Airship  
+*UCSD Aerospace Engineering Program Project*
+
+![Mars Glider Design](glider design.jpg){width=100% style="margin-top: 10px; margin-bottom: 20px;"}
+
+- Developed fixed-wing **UAV systems** for planetary exploration environments.
+- Improved CAD modeling accuracy by **25%** for soft goods integration.
+- Conducted advanced structural simulations, leading to a **10% reduction** in weight while preserving airframe performance.
+- Skills: SolidWorks, FEA, aerodynamic modeling.
 
 ---
 
-## Data-Driven Decision Making in Engineering
+## ⚡ EVenus Airship Design
+*UCSD Capstone Project*
 
-- Built R scripts to perform statistical analysis and forecasting for complex engineering projects.
-- Applied data visualization to detect trends and inform system optimization strategies.
-- Delivered business intelligence insights into aerospace R&D project feasibility.
+![Venus Airship Design](Venus Airship.jpg){width=100% style="margin-top: 10px; margin-bottom: 20px;"}
+
+- Designed and built a **complete Venus Airship**, capable of withstanding the harsh Venus environment.
+- Utilized old technology from Venera missions as ideas for surviveability.
+- Focused on structural optimization, thermal safety, and real-world system integration.
+- Tools used: SolidWorks, MATLAB, Arduino, FEA software.
 
 ---
+
+## 🧠 Technical Skills Utilized
+
+- CAD Modeling (SolidWorks, AutoCAD)  
+- FEA & Thermal Simulation (ANSYS, MATLAB)  
+- Data Analysis (Python, R)  
+- System Prototyping (Arduino, PCB design)  
+- Aerospace Test Development
+
+
 
