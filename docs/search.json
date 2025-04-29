@@ -1,30 +1,100 @@
 [
   {
-    "objectID": "mba-projects.html",
-    "href": "mba-projects.html",
-    "title": "MBA Projects",
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
     "section": "",
-    "text": "This page highlights selected MBA coursework and projects completed during my time at Cal Poly Pomona. It includes hands-on analysis, decision-making, and real-world business applications across multiple disciplines.\n\n\n\nIn my Investment and Financial Markets course, I managed a simulated investment portfolio designed to apply asset allocation theories, portfolio diversification, and risk management strategies.\nKey activities included: - Allocating investments across healthcare, technology, energy, and materials sectors - Tracking portfolio performance over time compared to market benchmarks - Analyzing volatility, returns, and sector-specific trends\nBelow is a performance chart from the first month of the portfolio simulation:"
+    "text": "Below you can view and download my full resume.\n\n\n\n\nThis browser does not support PDFs. Please download the PDF to view it: &lt;a href=\"resume.pdf\"&gt;Download Resume PDF&lt;/a&gt;.\n\n\n\n\n\n👉 Download Resume (PDF)\n\n\n\n\n\nB.S. Aerospace Engineering, UCSD\nMBA Candidate, Cal Poly Pomona\nEngineering Skills: MATLAB, SolidWorks, ANSYS, Python, R\nBusiness Skills: Data Analytics, Financial Modeling, Operations Strategy"
   },
   {
-    "objectID": "mba-projects.html#investment-portfolio-analysis",
-    "href": "mba-projects.html#investment-portfolio-analysis",
-    "title": "MBA Projects",
+    "objectID": "resume.html#view-resume",
+    "href": "resume.html#view-resume",
+    "title": "Resume",
     "section": "",
-    "text": "In my Investment and Financial Markets course, I managed a simulated investment portfolio designed to apply asset allocation theories, portfolio diversification, and risk management strategies.\nKey activities included: - Allocating investments across healthcare, technology, energy, and materials sectors - Tracking portfolio performance over time compared to market benchmarks - Analyzing volatility, returns, and sector-specific trends\nBelow is a performance chart from the first month of the portfolio simulation:"
+    "text": "This browser does not support PDFs. Please download the PDF to view it: &lt;a href=\"resume.pdf\"&gt;Download Resume PDF&lt;/a&gt;."
   },
   {
-    "objectID": "analytics.html",
-    "href": "analytics.html",
-    "title": "Business Analytics",
+    "objectID": "resume.html#download-resume",
+    "href": "resume.html#download-resume",
+    "title": "Resume",
     "section": "",
-    "text": "1 Business Analytics Projects\nHere you’ll find dashboards, data wrangling projects, and data storytelling examples using R, Excel, and Tableau."
+    "text": "👉 Download Resume (PDF)"
+  },
+  {
+    "objectID": "resume.html#key-highlights",
+    "href": "resume.html#key-highlights",
+    "title": "Resume",
+    "section": "",
+    "text": "B.S. Aerospace Engineering, UCSD\nMBA Candidate, Cal Poly Pomona\nEngineering Skills: MATLAB, SolidWorks, ANSYS, Python, R\nBusiness Skills: Data Analytics, Financial Modeling, Operations Strategy"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "Adib Mazloom",
     "section": "",
-    "text": "1 Welcome\nThis is the home page of Adib Mazloom’s Portfolio Website.\n\nMBA Candidate at Cal Poly Pomona\nSkills: R, Python, SQL, Tableau, Excel\nCareer Aspirations: Business Analyst / Data-Driven Decision Maker"
+    "text": "Welcome to my personal portfolio.\nI am an Aerospace Engineer and MBA Candidate passionate about technical innovation, data-driven decision making, and strategic engineering solutions.\n\n\n\n\nEducation: B.S. in Aerospace Engineering (UCSD) | MBA Candidate (Cal Poly Pomona)\nSkills: R, Python, MATLAB, SolidWorks, ANSYS, Tableau, SQL\nInterests: Aerospace systems, business analytics, autonomous technologies, data modeling\n\n\n\n\n\n\nMBA Projects\nEngineering Analytics\nGitHub Repository\n\n\n\n\n\nI’m always excited to discuss aerospace engineering, data analytics, and business strategy.\nFeel free to reach out:\n📧 Email: amazloom [at] cpp [dot] edu\n🔗 GitHub: AdibMazloom GitHub\n🔗 LinkedIn: LinkedIn Profile"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Adib Mazloom",
+    "section": "",
+    "text": "Education: B.S. in Aerospace Engineering (UCSD) | MBA Candidate (Cal Poly Pomona)\nSkills: R, Python, MATLAB, SolidWorks, ANSYS, Tableau, SQL\nInterests: Aerospace systems, business analytics, autonomous technologies, data modeling"
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "Adib Mazloom",
+    "section": "",
+    "text": "MBA Projects\nEngineering Analytics\nGitHub Repository"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Adib Mazloom",
+    "section": "",
+    "text": "I’m always excited to discuss aerospace engineering, data analytics, and business strategy.\nFeel free to reach out:\n📧 Email: amazloom [at] cpp [dot] edu\n🔗 GitHub: AdibMazloom GitHub\n🔗 LinkedIn: LinkedIn Profile"
+  },
+  {
+    "objectID": "analytics.html",
+    "href": "analytics.html",
+    "title": "Engineering Analytics",
+    "section": "",
+    "text": "This section highlights key technical projects demonstrating my skills in aerospace engineering, data analysis, and system modeling.\n\n\n\n\nModeled thermal and structural performance for high-speed flight vehicles.\nUtilized ANSYS and MATLAB for simulations and optimization studies.\nConducted FEA (Finite Element Analysis) to optimize airframe designs under thermal loads.\n\n\n\n\n\n\nBuilt R scripts to perform statistical analysis and forecasting for complex engineering projects.\nApplied data visualization to detect trends and inform system optimization strategies.\nDelivered business intelligence insights into aerospace R&D project feasibility."
+  },
+  {
+    "objectID": "analytics.html#aerospace-systems-analysis",
+    "href": "analytics.html#aerospace-systems-analysis",
+    "title": "Engineering Analytics",
+    "section": "",
+    "text": "Modeled thermal and structural performance for high-speed flight vehicles.\nUtilized ANSYS and MATLAB for simulations and optimization studies.\nConducted FEA (Finite Element Analysis) to optimize airframe designs under thermal loads."
+  },
+  {
+    "objectID": "analytics.html#data-driven-decision-making-in-engineering",
+    "href": "analytics.html#data-driven-decision-making-in-engineering",
+    "title": "Engineering Analytics",
+    "section": "",
+    "text": "Built R scripts to perform statistical analysis and forecasting for complex engineering projects.\nApplied data visualization to detect trends and inform system optimization strategies.\nDelivered business intelligence insights into aerospace R&D project feasibility."
+  },
+  {
+    "objectID": "mba-projects.html",
+    "href": "mba-projects.html",
+    "title": "MBA Projects",
+    "section": "",
+    "text": "Welcome to the MBA Projects section of my portfolio.\n\n\n\n\nDeveloped a diversified investment portfolio using real-world market data.\nAllocated assets across sectors including Technology, Healthcare, Energy, and Financials.\nAchieved strong returns with an emphasis on risk management and sector balancing.\nIncluded detailed monthly reports and performance tracking.\nTools used: Excel, RStudio, Power BI.\n\n\n\n\n\n\nConducted detailed analysis of supply chain inefficiencies for manufacturing optimization.\nProposed strategic solutions for production and logistics improvements.\nBuilt dynamic models using Solver and Excel-based optimization tools.\nVisualized findings through Tableau dashboards to assist executive decision-making."
+  },
+  {
+    "objectID": "mba-projects.html#investment-portfolio-simulation",
+    "href": "mba-projects.html#investment-portfolio-simulation",
+    "title": "MBA Projects",
+    "section": "",
+    "text": "Developed a diversified investment portfolio using real-world market data.\nAllocated assets across sectors including Technology, Healthcare, Energy, and Financials.\nAchieved strong returns with an emphasis on risk management and sector balancing.\nIncluded detailed monthly reports and performance tracking.\nTools used: Excel, RStudio, Power BI."
+  },
+  {
+    "objectID": "mba-projects.html#operations-and-supply-chain-management-analysis",
+    "href": "mba-projects.html#operations-and-supply-chain-management-analysis",
+    "title": "MBA Projects",
+    "section": "",
+    "text": "Conducted detailed analysis of supply chain inefficiencies for manufacturing optimization.\nProposed strategic solutions for production and logistics improvements.\nBuilt dynamic models using Solver and Excel-based optimization tools.\nVisualized findings through Tableau dashboards to assist executive decision-making."
   }
 ]

@@ -3,25 +3,27 @@ title: "MBA Projects"
 format: html
 ---
 
-# MBA Projects Portfolio
+# MBA Projects
 
-This page highlights selected MBA coursework and projects completed during my time at Cal Poly Pomona. It includes hands-on analysis, decision-making, and real-world business applications across multiple disciplines.
+Welcome to the MBA Projects section of my portfolio.
 
 ---
 
-## 📈 Investment Portfolio Analysis
+## Investment Portfolio Simulation
 
-In my Investment and Financial Markets course, I managed a simulated investment portfolio designed to apply asset allocation theories, portfolio diversification, and risk management strategies.
+- Developed a diversified investment portfolio using real-world market data.
+- Allocated assets across sectors including Technology, Healthcare, Energy, and Financials.
+- Achieved strong returns with an emphasis on risk management and sector balancing.
+- Included detailed monthly reports and performance tracking.
+- Tools used: Excel, RStudio, Power BI.
 
-Key activities included:
-- Allocating investments across healthcare, technology, energy, and materials sectors
-- Tracking portfolio performance over time compared to market benchmarks
-- Analyzing volatility, returns, and sector-specific trends
+---
 
-Below is a performance chart from the first month of the portfolio simulation:
+## Operations and Supply Chain Management Analysis
 
-```{r}
-# You will add your image here once you upload it to your project folder
-# Example placeholder for inserting an image
+- Conducted detailed analysis of supply chain inefficiencies for manufacturing optimization.
+- Proposed strategic solutions for production and logistics improvements.
+- Built dynamic models using Solver and Excel-based optimization tools.
+- Visualized findings through Tableau dashboards to assist executive decision-making.
 
-knitr::include_graphics("images/investment_portfolio_month1.png")
+---

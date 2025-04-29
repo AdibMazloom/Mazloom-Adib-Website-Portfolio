@@ -1,8 +1,27 @@
 ---
-title: "Business Analytics"
+title: "Engineering Analytics"
 format: html
 ---
 
-# Business Analytics Projects
+# Engineering Analytics and Technical Projects
 
-Here you’ll find dashboards, data wrangling projects, and data storytelling examples using R, Excel, and Tableau.
+This section highlights key technical projects demonstrating my skills in aerospace engineering, data analysis, and system modeling.
+
+---
+
+## Aerospace Systems Analysis
+
+- Modeled thermal and structural performance for high-speed flight vehicles.
+- Utilized ANSYS and MATLAB for simulations and optimization studies.
+- Conducted FEA (Finite Element Analysis) to optimize airframe designs under thermal loads.
+
+---
+
+## Data-Driven Decision Making in Engineering
+
+- Built R scripts to perform statistical analysis and forecasting for complex engineering projects.
+- Applied data visualization to detect trends and inform system optimization strategies.
+- Delivered business intelligence insights into aerospace R&D project feasibility.
+
+---
+

@@ -12,13 +12,18 @@ website:
       - href: mba-projects.qmd
         text: MBA Projects
       - href: analytics.qmd
-        text: Business Analytics
-      #- href: reveal.qmd
-      #  text: Presentation
+        text: Engineering Analytics
+      - href: resume.qmd
+        text: Resume
+  page-navigation: true
+  repo-url: "https://github.com/AdibMazloom/Mazloom-Adib-Website-Portfolio"
+  repo-actions: [source]
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     toc: true
-    number-sections: true
+    toc-depth: 2
     code-fold: true
+
+

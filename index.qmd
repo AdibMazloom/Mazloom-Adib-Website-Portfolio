@@ -1,13 +1,40 @@
 ---
-title: "Home"
+title: "Adib Mazloom"
 format: html
 ---
 
-# Welcome
+# Aerospace Engineering and Business Strategy
 
-This is the home page of Adib Mazloom's Portfolio Website.
+Welcome to my personal portfolio.  
+I am an Aerospace Engineer and MBA Candidate passionate about technical innovation, data-driven decision making, and strategic engineering solutions.
 
-- MBA Candidate at Cal Poly Pomona
-- Skills: R, Python, SQL, Tableau, Excel
-- Career Aspirations: Business Analyst / Data-Driven Decision Maker
+---
+
+## About Me
+
+- **Education**: B.S. in Aerospace Engineering (UCSD) | MBA Candidate (Cal Poly Pomona)
+- **Skills**: R, Python, MATLAB, SolidWorks, ANSYS, Tableau, SQL
+- **Interests**: Aerospace systems, business analytics, autonomous technologies, data modeling
+
+---
+
+## Quick Links
+
+- [MBA Projects](mba-projects.qmd)
+- [Engineering Analytics](analytics.qmd)
+- [GitHub Repository](https://github.com/AdibMazloom)
+
+---
+
+## Contact
+
+I’m always excited to discuss aerospace engineering, data analytics, and business strategy.  
+Feel free to reach out:
+
+📧 Email: amazloom [at] cpp [dot] edu  
+🔗 GitHub: [AdibMazloom GitHub](https://github.com/AdibMazloom)  
+🔗 LinkedIn: [LinkedIn Profile](#) <!-- <-- Replace with your real LinkedIn link -->
+
+---
+
 
