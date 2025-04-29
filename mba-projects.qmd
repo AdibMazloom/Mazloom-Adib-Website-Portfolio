@@ -9,7 +9,9 @@ Welcome to the MBA Projects section of my portfolio.
 
 ---
 
-## Investment Portfolio Simulation
+## 📈 Investment Portfolio Simulation
+
+![Investment Portfolio Simulation](temp.jpg){width=400px style="margin-top: 10px;"}
 
 - Developed a diversified investment portfolio using real-world market data.
 - Allocated assets across sectors including Technology, Healthcare, Energy, and Financials.
@@ -19,7 +21,9 @@ Welcome to the MBA Projects section of my portfolio.
 
 ---
 
-## Operations and Supply Chain Management Analysis
+## 🚚 Operations and Supply Chain Management Analysis
+
+![Supply Chain Optimization Project](Run 3.jpg){width=400px style="margin-top: 10px;"}
 
 - Conducted detailed analysis of supply chain inefficiencies for manufacturing optimization.
 - Proposed strategic solutions for production and logistics improvements.
@@ -27,3 +31,4 @@ Welcome to the MBA Projects section of my portfolio.
 - Visualized findings through Tableau dashboards to assist executive decision-making.
 
 ---
+

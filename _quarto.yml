@@ -9,10 +9,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: mba-projects.qmd
-        text: MBA Projects
       - href: analytics.qmd
         text: Engineering Analytics
+      - href: mba-projects.qmd
+        text: MBA Projects
       - href: resume.qmd
         text: Resume
   page-navigation: true
@@ -25,5 +25,6 @@ format:
     toc: true
     toc-depth: 2
     code-fold: true
+
 
 
